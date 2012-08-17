@@ -1,0 +1,7 @@
+name = Address Field Link 
+description = Implements a text field for a web address in an addressfield format handler.
+core = 7.x
+package = Fields
+
+dependencies[] = ctools
+dependencies[] = addressfield
